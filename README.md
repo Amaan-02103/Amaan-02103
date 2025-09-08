@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fresher Web and Python Developer passionate about contributing in real-life projects using Python and Web Development Techniques.
+I'm a fresh developer passionate about contributing in real-life projects using Python and Web Development Techniques.
 
 
 ### 🌐 Connect with Me
